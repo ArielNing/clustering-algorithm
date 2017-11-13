@@ -1,2 +1,2 @@
 # clustering-algorithm
-Implementation of clustering algorithm by python
+Implementation of clustering algorithm in python
